@@ -7,7 +7,7 @@
 
 <ul>
     <li><a href="/comandos/1.md">Introduction to Git Commits</a></li>
-    <li><a href="/comandos/2.md">Branching in Git</a></li>
+    <li><a href="/comandos/2.MD">Branching in Git</a></li>
     <li><a href="/comandos/3.md">Merging in Git</a></li>
     <li><a href="/comandos/4.md">Rebase Introduction</a></li>
     <li><a href="/comandos/5.md">Detach yo' HEAD</a></li>
