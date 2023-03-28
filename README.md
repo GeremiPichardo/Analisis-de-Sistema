@@ -6,6 +6,7 @@
 ## Comandos...
 
 <ul>
+    <li><a href="/comandos/00.md">Prueba, Juego Completo</a></li>
     <li><a href="/comandos/1.md">Introduction to Git Commits</a></li>
     <li><a href="/comandos/2.MD">Branching in Git</a></li>
     <li><a href="/comandos/3.md">Merging in Git</a></li>
@@ -23,7 +24,7 @@
     <li><a href="/comandos/15.md">Git Describe</a></li>
     <li><a href="/comandos/16.md">Rebasing over 9000 times</a></li>
     <li><a href="/comandos/17.md">Multiple parents</a></li>
-    <li><a href="/comandos/18.md">Branch Spaghetti</a></li>
+    <li><a href="/comandos/18.md">Branch Spaghetti</a></li>   
 </ul>
 
 ---
